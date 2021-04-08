@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Pengguna Github</string>
+    <string name="hint_search">Cari</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repository">Repositori</string>
+    <string name="icon_location">Ikon Lokasi</string>
+    <string name="icon_company">Ikon Perusahaan</string>
+    <string name="icon_id">Ikon ID</string>
+    <string name="icon_blog">Ikon Blog</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="trending_developers">Temukan Pengembangmu</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="setting_language">Bahasa</string>
+
+    <string name="set_remainder">Setel Pengingat</string>
+    <string name="on">HIDUP</string>
+    <string name="off">MATI</string>
+    <string name="text_remainder">Temukan pengembangmu sekarang juga!</string>
+    <string name="toast_repeat_alarm">Alarm berulang dinyalakan</string>
+    <string name="toast_repeat_alarm_cancel">Alarm berulang dibatalkan</string>
+    <string name="type_set_repeating_alarm">Alarm berulang</string>
+    <string name="time_alarm">09:00</string>
+    <string name="massage_alarm">Pengingat Github</string>
+    <string name="image_detail_events">Foto Detail Acara</string>
+    <string name="image_event">Foto Acara</string>
+    <string name="events">Acara</string>
+    <string name="where_the_world_builds_software">Dimana Dunia Membangun Perangkat Lunak</string>
+</resources>

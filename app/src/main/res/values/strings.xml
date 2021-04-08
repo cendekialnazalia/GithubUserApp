@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="hint_search">Search</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="icon_location">Location Icon</string>
+    <string name="icon_company">Company Icon</string>
+    <string name="icon_id">ID Icon</string>
+    <string name="icon_blog">Blog Icon</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="trending_developers">Find Your Developers</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="setting_language">Language</string>
+
+    <string name="set_remainder">Set Remainder</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="text_remainder">Find your developer now!</string>
+    <string name="toast_repeat_alarm">Repeating alarm set up</string>
+    <string name="toast_repeat_alarm_cancel">Repeating alarm is canceled</string>
+    <string name="type_set_repeating_alarm">Repeating Alarm</string>
+    <string name="time_alarm">09:00</string>
+    <string name="massage_alarm">Github remainder</string>
+    <string name="image_detail_events">Image Detail Events</string>
+    <string name="image_event">Image Event</string>
+    <string name="events">Events</string>
+    <string name="where_the_world_builds_software">Where the World Builds Software</string>
+
+</resources>

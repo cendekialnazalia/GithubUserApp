@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:orientation="vertical"
+    tools:context=".view.SettingsActivity">
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="25dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/set_remainder"
+        android:textColor="@color/light_variants"
+        android:textOff="@string/on"
+        android:textOn="@string/off" />
+
+    <Button
+        android:id="@+id/btn_set_language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="25dp"
+        android:backgroundTint="@color/light_variants"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/setting_language"
+        android:textColor="@color/secondary"
+        android:textColorHighlight="@color/primary" />
+
+</LinearLayout>
